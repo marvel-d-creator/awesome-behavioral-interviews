@@ -2,7 +2,7 @@
   <img src="images/behvaioral-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://newsletter.ashishps.com/">Newsletter</a>
+  <a href="https://www.linkedin.com/in/marveldcreator/">LinkedIn</a> | <a href="https://twitter.com/marveldcreator">X</a> | <a href="https://instagram.com/marveldcreator">Instagram</a>
 </p>
 This repository contains tips and resources to prepare for behavioral interviews.
 
